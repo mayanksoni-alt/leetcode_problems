@@ -28,9 +28,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
