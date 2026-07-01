@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
