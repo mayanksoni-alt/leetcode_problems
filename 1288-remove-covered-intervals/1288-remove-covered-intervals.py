@@ -1,21 +1,14 @@
 class Solution(object):
     def removeCoveredIntervals(self, intervals):
+        intervals.sort(key=lambda x: (x[0], -x[1]))
+        
         count = 0
+        max_end = 0
 
-        for i in range(len(intervals)):
-            covered = False
-
-            for j in range(len(intervals)):
-                if j == i:
-                    continue
-            
-
-                if(intervals[i][0] >= intervals[j][0] and intervals[i][1] <= intervals[j][1]):
-                    covered = True
-                    break
-            
-            if not covered:
-                count+=1
+        for start, end in intervals:
+            if end > max_end:
+                count += 1
+                max_end = end
         
         return count
     
