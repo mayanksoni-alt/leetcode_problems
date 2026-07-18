@@ -1,8 +1,8 @@
 class Solution(object):
     def findGCD(self, nums):
-        nums.sort()
-        a = nums[0]
-        b = nums[len(nums)-1]
+        
+        a = min(nums)
+        b = max(nums)
 
         while b:
             a , b = b, a % b
