@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
