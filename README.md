@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
