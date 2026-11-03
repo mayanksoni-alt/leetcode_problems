@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2409-count-days-spent-together/) | Easy |
