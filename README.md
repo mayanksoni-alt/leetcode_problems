@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -96,11 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Matrix
@@ -175,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -201,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
