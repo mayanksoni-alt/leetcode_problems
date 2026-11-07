@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
