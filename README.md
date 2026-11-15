@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
