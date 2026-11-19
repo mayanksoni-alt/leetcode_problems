@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-process-tasks-using-servers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/mayanksoni-alt/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
